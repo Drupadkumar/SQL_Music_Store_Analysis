@@ -73,12 +73,22 @@ These insights were derived using SQL joins, grouping, common table expressions 
 
 * Delivered insights that can support business decisions in:
 
-        * Marketing campaigns
+       * Marketing campaigns
 
-        * Customer segmentation
+       * Customer segmentation
 
-        * Artist partnerships
+       * Artist partnerships
 
-Event planning
+       * Event planning
 
-Revenue optimization
+       * Revenue optimization
+
+# Tech Stack
+
+* SQL
+
+* PostgreSQL / SQLite (Chinook DB)
+
+* Joins, CTEs, Aggregations, Subqueries
+
+* Data Analysis Concepts
