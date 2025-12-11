@@ -87,7 +87,7 @@ These insights were derived using SQL joins, grouping, common table expressions 
 
 * SQL
 
-* PostgreSQL / SQLite (Chinook DB)
+* PostgreSQL / SQLite
 
 * Joins, CTEs, Aggregations, Subqueries
 
